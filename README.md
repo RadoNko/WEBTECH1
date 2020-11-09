@@ -3,7 +3,6 @@ Class Web Technologies Project 1.
 
 
 Všeobecné pokyny:
-
 Všetky odovzdávané stránky musia byť validné. Validitu vytvorených dokumentov si skontrolujte pomocou validátora.
 Zadania by mali byť optimalizované pre posledné verzie Google Chrome a Firefox.
 Zadania sa odovzdávajú vždy do polnoci dňa, ktorý predchádza cvičeniu.
@@ -13,7 +12,6 @@ Pri odovzdávaní do Google Classroom uveďte do poznámky adresu umiestnenia Va
 V prípade zistenia plagiátorstva je treba počítať s následkami.
 
 Zadanie cvičenia:
-
 Vytvorte si osobnú web stránku. Je potrebné, aby zadanie spĺňalo nasledovné požiadavky:
 Dokument zostavte podľa odporúčaní HTML 5 (nesmie chýbať DOCTYPE).
 Stránku validujte podľa HTML5 a CSS3. Pokiaľ pri tvorbe CSS chcete použiť vlastnosti, ktoré ešte nie sú štandardizované, t.j. využívajú predpony výrobcu prehliadačov (vendor prefix) je to možné. Takéto pravidlá nemusia byť validné. Všetky ostatné však áno.
