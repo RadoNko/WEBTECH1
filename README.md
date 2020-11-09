@@ -1,5 +1,5 @@
 # WEBTECH1 BASIC HTML+CSS
-Class Web Technologies Project 1.
+Class Web Technologies
 
 
 Zadanie cvičenia:
