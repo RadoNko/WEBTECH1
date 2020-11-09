@@ -1,4 +1,4 @@
-# WEBTECH1
+# WEBTECH1 BASIC HTML+CSS
 Class Web Technologies Project 1.
 
 
